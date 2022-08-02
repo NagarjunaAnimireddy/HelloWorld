@@ -1,2 +1,5 @@
-system.out.println("This is TEST java program")
-system.out.println("Hello World")
+class HelloWorld{
+	public static void main(String a[]){
+		System.out.println("Hello World");
+	}
+}
